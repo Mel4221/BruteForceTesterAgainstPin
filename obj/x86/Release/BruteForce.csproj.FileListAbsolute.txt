@@ -1,0 +1,6 @@
+/home/mel/Documents/csharp/BruteForce/bin/Release/BruteForce.exe
+/home/mel/Documents/csharp/BruteForce/bin/Release/QuickTools.dll
+/home/mel/Documents/csharp/BruteForce/bin/Release/QuickTools.xml
+/home/mel/Documents/csharp/BruteForce/obj/x86/Release/BruteForce.csproj.CoreCompileInputs.cache
+/home/mel/Documents/csharp/BruteForce/obj/x86/Release/BruteForce.csproj.CopyComplete
+/home/mel/Documents/csharp/BruteForce/obj/x86/Release/BruteForce.exe

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{7CEF320A-7A82-4A1A-9514-871A834BECBF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="34" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BruteForce" expanded="True">
+            <Node name="BruteForce" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BruteForce PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
